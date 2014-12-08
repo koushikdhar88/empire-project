@@ -113,7 +113,8 @@ body {
 	margin-right: auto;
 	left: 0;
 	right: 0;
-	font-color: #5D5D5D;
+	color: #5D5D5D;
+	font-family: Helvetica;
 }
 
 #ch2 {
